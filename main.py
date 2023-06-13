@@ -20,4 +20,3 @@ location = input("Add your download folder...")
 location = location.replace("\\", "/")
 
 y_download.download(location)
-#C:\Users\Trust\Desktop\Segun\VSCodess\dd
